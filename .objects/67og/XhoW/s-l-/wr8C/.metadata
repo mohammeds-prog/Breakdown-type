@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Done",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "wr8C0NWln0yn9WUN8f4j4A",
+  "Reference": "bL6jfDZDB0aOfTJl8h8bkA/wr8C0NWln0yn9WUN8f4j4A",
+  "ParentRef": "bL6jfDZDB0aOfTJl8h8bkA/s-l-biFL-Uuhy_KR6R9Esw",
+  "Created": "2026-07-02T16:36:40.5344663Z",
+  "Updated": "2026-07-02T16:36:40.5344663Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

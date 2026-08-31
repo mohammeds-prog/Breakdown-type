@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_g5frIfhI0-91qOEJoktBg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="live6.dentrixascend.com/pm" CVScreenId="af273d8f-bfa2-4d67-81cf-6d387bcbcff8" CvElementArea="602, 629, 20, 19" CvTextArea="624, 632, 497, 16" CvTextArgument="Hide this patient's alerts for problems, allergies, and medications on this device today" CvType="CheckBox" DesignTimeRectangle="602, 629, 519, 19" ElementType="Text" ElementVisibilityArgument="Interactive" Guid="998679a7-b2ab-43e9-ae95-27527a53491b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Dentrix Ascend - Patient Overview' /&gt;" SearchSteps="CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="604, 665, 63, 26" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='Done' parentid='online-pm-main' tag='BUTTON' type='button' class='ui-button ui-corner-all ui-widget btn-primary' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Done' /&gt;" Guid="cd621af3-6c55-4d9a-bb82-6f9cce99298c" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a88d35f945a6bd545ca79882ea932718.jpg" xmlns="">05bjh2UsqNUmW2PqOucbkmg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

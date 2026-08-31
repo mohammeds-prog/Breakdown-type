@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nBuKvbrR-Uyxt0ngtyPJCw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="live6.dentrixascend.com/pm" DesignTimeRectangle="387, 464, 145, 18" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='pageContent' tag='DIV' /&gt;&lt;webctrl aaname='Patient Insurance (1)' shadowhostid='pageContent' tag='LABEL' /&gt;" Guid="8492b966-5450-4f1c-928c-370a15b6bce6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Dentrix Ascend - Patient Appointments' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d766e5c8cfee44785a076b4cb73f3733.jpg" xmlns="">0RfN44TniDUeAyDqGEWTqmg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

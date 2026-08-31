@@ -1,0 +1,46 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "a7b985b8-60e0-4f14-8cab-576cb3a1f590",
+      "type": "process",
+      "input": {
+        "type": "object",
+        "properties": {
+          "in_RomeovilleEmployees": {
+            "type": "string",
+            "x-default-expression": "\"3\"",
+            "default": "3"
+          },
+          "in_NapervilleEmployees": {
+            "type": "string",
+            "x-default-expression": "\"2\"",
+            "default": "2"
+          },
+          "in_MontgomeryEmployees": {
+            "type": "string",
+            "x-default-expression": "\"1\"",
+            "default": "1"
+          },
+          "in_DownersEmployees": {
+            "type": "string"
+          },
+          "in_AloraEmployees": {
+            "type": "integer",
+            "minimum": -2147483648,
+            "maximum": 2147483647,
+            "x-default-expression": "0",
+            "default": 0
+          },
+          "in_LemontEmployees": {
+            "type": "string",
+            "x-default-expression": "\"2\"",
+            "default": "2"
+          }
+        },
+        "required": []
+      }
+    }
+  ]
+}

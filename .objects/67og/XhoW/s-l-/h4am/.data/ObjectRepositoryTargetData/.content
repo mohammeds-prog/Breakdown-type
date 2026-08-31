@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wD_RRd-MB0O0Aj5QbrEdBg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="live6.dentrixascend.com/pm" CVScreenId="680e668c-28b1-4030-aa05-911f423401d4" CvElementArea="710, 160, 226, 30" CvType="InputBox" DesignTimeRectangle="710, 160, 226, 30" ElementType="InputBox" ElementVisibilityArgument="Interactive" Guid="dd4e3016-794b-453f-b200-966558aaa22e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Dentrix Ascend - Overview' /&gt;" SearchSteps="CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="940, 165, 16, 20" ElementType="Icon" FullSelectorArgument="&lt;webctrl tag='path' /&gt;" Guid="19025ec5-0789-4b5e-820d-1201ccacbd97" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e086d48202431d3424ab2da938ddbf00.jpg" xmlns="">0N52BYZsUk0KTjmYuBYuArA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

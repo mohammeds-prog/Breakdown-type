@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0tn8THsjIUK9SXzgGdI3Mg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="live6.dentrixascend.com/pm" CVScreenId="f41f1607-523d-4b56-84e5-04ee9db858a0" CvType="AnyWordGroup" DesignTimeRectangle="808, 454, 226, 18" ElementType="CheckBox" ElementVisibilityArgument="Interactive" Guid="7031e678-4e9b-46ec-a00e-511b6f19b363" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Dentrix Ascend - Patient Appointments' /&gt;" SearchSteps="CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="810, 405, 102, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='pageContent' tag='DIV' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl shadowhostid='pageContent' tag='TABLE' matching:shadowhostid='fuzzy' fuzzylevel:shadowhostid='0.0' /&gt;&lt;webctrl aaname='Document Name' shadowhostid='pageContent' type='' tag='LABEL' class='sc-bjRkmd ftjAMU' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:shadowhostid='fuzzy' fuzzylevel:shadowhostid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Document Name' /&gt;" Guid="65a6e98a-53e1-4f6f-b8dc-a4a3ef6d0146" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="68420881823369d997e51b4fffed682d.jpg" xmlns="">0z5Dlb5mz-0CCjJGm0ayRxQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

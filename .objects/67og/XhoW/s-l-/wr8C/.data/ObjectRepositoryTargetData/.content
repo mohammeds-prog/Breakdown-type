@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BffBFxv990uWBX-QMuUdww" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="live6.dentrixascend.com/pm" CVScreenId="6ac6fbbd-c1b8-48a4-b4d3-b8c52946310e" CvElementArea="603, 549, 65, 29" CvTextArea="618, 556, 34, 14" CvTextArgument="Done" CvType="Button" DesignTimeRectangle="603, 549, 65, 29" ElementType="Button" ElementVisibilityArgument="Interactive" Guid="31315b42-b0e9-4df9-84ca-224d51b57c47" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Dentrix Ascend - Patient Overview' /&gt;" SearchSteps="CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="604, 514, 728, 23" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='ui-id-52' tag='LABEL' type='' class='checkbox' aaname='                  Hide this patient&amp;apos;s alerts for problems, allergies, and medications on this device today     ' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Hide this patient&amp;apos;s alerts for problems, allergies, and medications on this device today' /&gt;" Guid="91ab2562-0c20-43bf-9791-50b7cb1eed44" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6081751413325b16814d4fd13b635994.jpg" xmlns="">0i7ASzHi0C0yBwoUcez5jgw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
