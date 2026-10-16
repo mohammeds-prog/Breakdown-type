@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_QNFgTASdEGGQbejSg3WOg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="live6.dentrixascend.com/pm" CVScreenId="748d0f55-8ca4-4330-a722-8d9dea041cbe" CvTextArea="1014, 534, 98, 15" CvTextArgument="Power Reporting" CvType="Text" DesignTimeRectangle="1006, 527, 187, 28" ElementType="ListItem" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='customReports' tag='LI' /&gt;" Guid="3a6aab49-2170-4f13-a510-3738805ebe75" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Dentrix Ascend - Overview' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1006, 503, 187, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='sub-menu-advanced' tag='SPAN' type='' class='menu-sub-header' aaname='Advanced Reports' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Advanced Reports' /&gt;" Guid="f8fb6ac1-1db5-49b5-82bf-3731273e07c1" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="19629b6c8ff320f87f278a772d462bb3.jpg" xmlns="">0csD2t6z-BEuFI2juXhXTxA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

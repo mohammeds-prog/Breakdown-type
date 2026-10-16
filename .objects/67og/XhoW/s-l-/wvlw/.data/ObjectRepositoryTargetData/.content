@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mVZo5X50Fku2hCa2Zhfsxw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="live6.dentrixascend.com/pm" CVScreenId="f50360bf-a978-41e8-ad6f-0c159f2450ee" CvElementArea="1049, 743, 89, 42" CvTextArea="1071, 758, 45, 16" CvTextArgument="Export" CvType="Button" DesignTimeRectangle="1049, 744, 88, 42" ElementType="Button" ElementVisibilityArgument="Interactive" Guid="4a532a53-8b40-401f-b8fc-0219713ada90" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Dentrix Ascend - Power Reporting' /&gt;" SearchSteps="CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1146, 745, 85, 39" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='customReportIframe' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl id='iframe1' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl class='button-panel' parentid='standardDialog' tag='TABLE' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' /&gt;&lt;webctrl id='dlgBtnCancel' type='' tag='BUTTON' class='pentaho-button' aaname='Discard all changes and close dialog' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Cancel' /&gt;" Guid="5806b989-aba8-4665-9224-a5b7978a9d07" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="68c7308979400329929ff69aaa4a5696.jpg" xmlns="">0A7bgow-XhE6yrmpfdOzqEQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

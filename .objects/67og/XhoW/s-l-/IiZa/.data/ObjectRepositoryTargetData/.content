@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="M-eUl935m0ijcuXLmSGoUw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="live6.dentrixascend.com/pm" DesignTimeRectangle="733, 370, 22, 22" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='customReportIframe' tag='IFRAME' /&gt;&lt;webctrl id='iframe1' tag='IFRAME' /&gt;&lt;webctrl parentid='cmdMoreActions' tag='DIV' /&gt;" Guid="ec2d0437-d610-4acc-9d4f-9e7d429b665d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Dentrix Ascend - Power Reporting' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="345587ace8ee1dbf185c1b111f6084f0.jpg" xmlns="">0rncC_y0b9Eyps4UqJ0Rdgw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

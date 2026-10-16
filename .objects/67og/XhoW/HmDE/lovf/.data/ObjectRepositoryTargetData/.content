@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jVQe0Zgi-06VQHBpEVyt0g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="live6.dentrixascend.com/login" CVScreenId="803be1db-8fc3-4bae-81b5-95d0fbd83551" CvTextArea="943, 490, 49, 16" CvTextArgument="LOGIN" CvType="Text" DesignTimeRectangle="788, 484, 360, 30" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='LEGEND' /&gt;" Guid="20910ee5-eb7d-44a8-9f88-df1a2be8556a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Dentrix Ascend - Login' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="788, 516, 90, 23" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='control-label' aaname='                     Organization                                      ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Organization' /&gt;" Guid="f050a78c-352a-42e9-b58e-088c02730b0b" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9f011537219acf952f13de6de682abfe.jpg" xmlns="">07tSITCLITE2L3NyJbgkE2w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ehnyO77maEG7wLtW8wXq8g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="auth.henryscheinone.com/u/login" DesignTimeRectangle="809, 621, 274, 52" ElementType="InputBoxPassword" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='password' tag='INPUT' type='password' class='input cf2cd3e94 ce6ee12c7' aaname='Password *' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' fuzzylevel:aaname='0.0' /&gt;" Guid="fef5a7fd-c133-487a-868f-b16cca68e4ee" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Log in | Dentrix Ascend' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="825, 638, 90, 18" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='password-label' tag='LABEL' type='' class='cab4e2a69 c8bc991c2 c949ef6ab' aaname='Password ' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Password *' /&gt;" Guid="a0cf2e76-32ef-45a2-9d81-615bc6b9ad06" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9db0e4b78324d45af3758d5e278df89b.jpg" xmlns="">0gw3XO3wtgEuJMgt4NJnOVw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

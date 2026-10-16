@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-TZDAwu7gkeklgRCuJpRmQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="live6.dentrixascend.com/pm" CVScreenId="877943b1-5cac-46ea-81ba-932d1511cf2b" CvElementArea="1282, 188, 36, 35" CvType="Button" DesignTimeRectangle="1282, 189, 35, 34" ElementVisibilityArgument="Interactive" Guid="e3a5e5b2-0c88-4361-a0be-b3d862154e92" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Dentrix Ascend - Overview' /&gt;" SearchSteps="CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1321, 190, 32, 32" FullSelectorArgument="&lt;webctrl idx='8' parentid='patientHeaderQuickLinksContainerIcons' tag='A' /&gt;" Guid="eeee0bb7-4542-4102-924f-aa3a04b90158" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3649830a1676f57a8fe4bb500c692f76.jpg" xmlns="">0RbCeVVFY6kaOZZhluI8QvA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

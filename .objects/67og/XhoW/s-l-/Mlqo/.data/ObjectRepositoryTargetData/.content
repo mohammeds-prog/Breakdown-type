@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6U7g8disdUOnahS7I1XhpQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="auth.henryscheinone.com/u/login" CVScreenId="8466c937-f056-4bbc-85fa-9b6593e72604" CvElementArea="806, 733, 324, 55" CvTextArea="934, 751, 67, 17" CvTextArgument="Continue" CvType="Button" DesignTimeRectangle="808, 735, 320, 52" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;main&amp;gt;section&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;button' tag='BUTTON' type='submit' /&gt;" Guid="bf1eafa0-94b6-48bd-b266-3df09916d4b2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Log in | Dentrix Ascend' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="891, 688, 154, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='A' type='' class='c06bc2bb0 cc4980cb6 c9c41f9f9' aaname='FORGOT PASSWORD' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='FORGOT PASSWORD' /&gt;" Guid="73196825-3c9e-4880-a7e4-6ccb91a1ffb0" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0abf49f9c0afc16ac870a47e9cb94743.jpg" xmlns="">0EbNwUVEGiUmCgeYYE2vCwA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

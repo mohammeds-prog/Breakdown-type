@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="V6ovAbo26EapzqVrFv09DA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="live6.dentrixascend.com/login" CVScreenId="803be1db-8fc3-4bae-81b5-95d0fbd83551" CvElementArea="787, 650, 363, 29" CvTextArea="940, 657, 56, 14" CvTextArgument="Continue" CvType="Button" DesignTimeRectangle="788, 652, 360, 26" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='continue' tag='INPUT' /&gt;" Guid="a5e309b3-3f99-4d8a-9595-6c1daeb03c7c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Dentrix Ascend - Login' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="788, 484, 360, 30" FuzzySelectorArgument="&lt;webctrl tag='LEGEND' type='' class='' aaname='Login' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='LOGIN' /&gt;" Guid="050bb9ef-2730-42f8-b006-e890c30dedc9" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="605fe6e935ca671d4e0a9cc52ddfa8bb.jpg" xmlns="">03z5yBoY7OEWlhBQ9HbKt4Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

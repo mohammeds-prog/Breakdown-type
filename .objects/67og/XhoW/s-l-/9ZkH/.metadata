@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Power Reporting(1)",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "9ZkHMdIWLkyn3qConttQ2A",
+  "Reference": "bL6jfDZDB0aOfTJl8h8bkA/9ZkHMdIWLkyn3qConttQ2A",
+  "ParentRef": "bL6jfDZDB0aOfTJl8h8bkA/s-l-biFL-Uuhy_KR6R9Esw",
+  "Created": "2026-10-01T17:11:00.028477Z",
+  "Updated": "2026-10-01T17:11:00.028477Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
